@@ -2,9 +2,8 @@
     "mqtt_host": "hassio.local",
     "mqtt_user": "",
     "mqtt_password": "",
+    "mqtt_id":"rtl433tomqtt",
     "rtl_433_path":"/usr/local/bin/rtl_433",
-    "mosquitto_pub_path":"/usr/bin/mosquitto_pub",
-    "id":"rtl433tomqtt",
     "devices":{
         "currentcost_power":{
             "protocol":44,
